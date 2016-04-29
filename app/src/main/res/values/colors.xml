@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_color">#3c454c</color>
+    <color name="btn_gray">#c6c3bd</color>
+    <color name="btn_red">#dc4340</color>
+    <color name="background">#ffffff</color>
+    <color name="txt_black">#343535</color>
+    <color name="txt_gray">#acacac</color>
+    <color name="divider_line_color">#eeefef</color>
+    <color name="txt_green">#6ac579</color>
+    <color name="txt_red">#fd9a9a</color>
+    <color name="txt_red_dark">#fd6f4e</color>
+    <color name="txt_blue">#009ffa</color>
+    <color name="gray_btn_bg">#e7e6e6</color>
+    <color name="txt_wave_gray">#999999</color>
+    <color name="chat_txt_blue">#2177c7</color>
+</resources>

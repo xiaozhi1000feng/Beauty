@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dp"
+        android:paddingBottom="8dp"
+        android:textColor="@color/background"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:background="@color/txt_red"
+        android:text="性感美女"/>
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/sexy_girl_listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null"
+        ptr:ptrHeaderTextColor="@color/txt_gray"
+        ptr:ptrAnimationStyle="flip"
+        android:background="@color/background"/>
+</LinearLayout>
